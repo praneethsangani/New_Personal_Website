@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.33f0a6bd.chunk.css",
+    "main.css": "/static/css/main.2917d431.chunk.css",
     "main.js": "/static/js/main.729ee455.chunk.js",
     "main.js.map": "/static/js/main.729ee455.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e0d02548.js",
@@ -10,7 +10,7 @@
     "static/js/2.2c07f750.chunk.js.map": "/static/js/2.2c07f750.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.14f8cc50.chunk.css.map": "/static/css/2.14f8cc50.chunk.css.map",
-    "static/css/main.33f0a6bd.chunk.css.map": "/static/css/main.33f0a6bd.chunk.css.map",
+    "static/css/main.2917d431.chunk.css.map": "/static/css/main.2917d431.chunk.css.map",
     "static/js/2.2c07f750.chunk.js.LICENSE.txt": "/static/js/2.2c07f750.chunk.js.LICENSE.txt",
     "static/media/Praneeth_Sangani_Resume.4d27e9d1.pdf": "/static/media/Praneeth_Sangani_Resume.4d27e9d1.pdf",
     "static/media/Praneeth_Sangani_Resume.ba55288a.PNG": "/static/media/Praneeth_Sangani_Resume.ba55288a.PNG",
@@ -21,7 +21,7 @@
     "static/js/runtime-main.e0d02548.js",
     "static/css/2.14f8cc50.chunk.css",
     "static/js/2.2c07f750.chunk.js",
-    "static/css/main.33f0a6bd.chunk.css",
+    "static/css/main.2917d431.chunk.css",
     "static/js/main.729ee455.chunk.js"
   ]
 }
